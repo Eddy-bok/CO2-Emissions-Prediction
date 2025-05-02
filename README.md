@@ -58,5 +58,5 @@ This plot displays a clear pattern, where residuals are positive for smaller eng
 ## 👤 Author
 
 **Edidiong Ibokette**  
-Graduate Student | Data Analyst  
+Predictive Modeling 
 GitHub: [Eddy-bok](https://github.com/Eddy-bok)
